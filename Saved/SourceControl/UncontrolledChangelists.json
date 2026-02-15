@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/unreal_projects/doorthing/Content/Bluprints/Props/BP_sigh.uasset",
+				"D:/unreal_projects/doorthing/Content/Bluprints/Props/W_iconinteracsionprompt.uasset",
+				"D:/unreal_projects/doorthing/Content/Bluprints/Props/BP_door.uasset",
+				"D:/unreal_projects/doorthing/Content/maps/M_Main.umap",
+				"D:/unreal_projects/doorthing/Content/Bluprints/Props/BP_door2.uasset",
+				"D:/unreal_projects/doorthing/Content/Bluprints/Props/images.uasset",
 				"D:/unreal_projects/baseTemplate/Content/Bluprints/Props/BP_door1.uasset",
 				"D:/unreal_projects/baseTemplate/Content/Bluprints/Props/BP_door.uasset",
 				"D:/unreal_projects/baseTemplate/Content/maps/M_Main.umap",
